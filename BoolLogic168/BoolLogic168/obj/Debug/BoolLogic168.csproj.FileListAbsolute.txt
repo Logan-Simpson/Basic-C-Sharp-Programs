@@ -1,0 +1,7 @@
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\BoolLogic168\BoolLogic168\bin\Debug\BoolLogic168.exe.config
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\BoolLogic168\BoolLogic168\bin\Debug\BoolLogic168.exe
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\BoolLogic168\BoolLogic168\bin\Debug\BoolLogic168.pdb
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\BoolLogic168\BoolLogic168\obj\Debug\BoolLogic168.csprojAssemblyReference.cache
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\BoolLogic168\BoolLogic168\obj\Debug\BoolLogic168.csproj.CoreCompileInputs.cache
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\BoolLogic168\BoolLogic168\obj\Debug\BoolLogic168.exe
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\BoolLogic168\BoolLogic168\obj\Debug\BoolLogic168.pdb

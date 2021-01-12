@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolLogic168", "BoolLogic168\BoolLogic168.csproj", "{2C523E39-3CBD-4F86-9A25-4F4D2811917D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C523E39-3CBD-4F86-9A25-4F4D2811917D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C523E39-3CBD-4F86-9A25-4F4D2811917D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C523E39-3CBD-4F86-9A25-4F4D2811917D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C523E39-3CBD-4F86-9A25-4F4D2811917D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {771934C2-61EF-4C35-8224-B7E17B82C7F4}
+	EndGlobalSection
+EndGlobal
