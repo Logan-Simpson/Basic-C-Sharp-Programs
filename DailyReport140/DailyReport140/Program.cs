@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace DailyReport140
 {
     class Program
     {
         static void Main(string[] args)
         {
-			           //This is a simple program
+            //This is a simple program
             Console.WriteLine("The Tech Academy.");
             Console.ReadLine();
             Console.WriteLine("Student Daily Report.");
