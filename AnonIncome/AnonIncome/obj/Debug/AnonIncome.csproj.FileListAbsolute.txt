@@ -1,0 +1,7 @@
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\AnonIncome\AnonIncome\bin\Debug\AnonIncome.exe.config
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\AnonIncome\AnonIncome\bin\Debug\AnonIncome.exe
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\AnonIncome\AnonIncome\bin\Debug\AnonIncome.pdb
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\AnonIncome\AnonIncome\obj\Debug\AnonIncome.csprojAssemblyReference.cache
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\AnonIncome\AnonIncome\obj\Debug\AnonIncome.csproj.CoreCompileInputs.cache
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\AnonIncome\AnonIncome\obj\Debug\AnonIncome.exe
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\AnonIncome\AnonIncome\obj\Debug\AnonIncome.pdb
