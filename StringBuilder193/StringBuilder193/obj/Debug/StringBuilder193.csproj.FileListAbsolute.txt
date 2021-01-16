@@ -1,0 +1,6 @@
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\StringBuilder193\StringBuilder193\bin\Debug\StringBuilder193.exe.config
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\StringBuilder193\StringBuilder193\bin\Debug\StringBuilder193.exe
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\StringBuilder193\StringBuilder193\bin\Debug\StringBuilder193.pdb
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\StringBuilder193\StringBuilder193\obj\Debug\StringBuilder193.csproj.CoreCompileInputs.cache
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\StringBuilder193\StringBuilder193\obj\Debug\StringBuilder193.exe
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\StringBuilder193\StringBuilder193\obj\Debug\StringBuilder193.pdb
