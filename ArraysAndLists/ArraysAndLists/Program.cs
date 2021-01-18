@@ -7,7 +7,6 @@ using System.Collections.Generic;
         {
         string[] Array = new string[] { "Hello", "Welcome", "Enjoy" };
         Console.WriteLine("Enter a number from 0-2.");
-        Console.ReadLine();
         int input = int.Parse(Console.ReadLine());
         if (input == 0)
         {
@@ -23,14 +22,13 @@ using System.Collections.Generic;
         }
         else
         {
-            Console.WriteLine("Please enter a number from 0-2.");
+            Console.WriteLine("That is not a number from 0-2.");
         }
         Console.ReadLine();
         
         int[] numArray = { 5, 2, 10, 200 };
 
         Console.WriteLine("Enter a number from 0-3.");
-        Console.ReadLine();
         int num1 = int.Parse(Console.ReadLine());
         if (num1 == 0)
         {
@@ -50,7 +48,7 @@ using System.Collections.Generic;
         }
         else
         {
-            Console.WriteLine("Please enter a number from 0-3.");
+            Console.WriteLine("That is not a number from 0-3.");
         }
         Console.ReadLine();
 
@@ -58,9 +56,27 @@ using System.Collections.Generic;
         {
             "Hello",
             "Welcome",
-            "Enjoy!",
+            "Thank you!",
         };
-
+        Console.WriteLine("Enter a number from 0-2.");
+        int input2 = int.Parse(Console.ReadLine());
+        if (input2 == 0)
+        {
+            Console.WriteLine(strList[0]);
+        }
+        else if (input2 == 1)
+        {
+            Console.WriteLine(strList[1]);
+        }
+        else if (input2 == 2)
+        {
+            Console.WriteLine(strList[2]);
+        }
+        else
+        {
+            Console.WriteLine("That is not a number from 0-2.");
+        }
+        Console.ReadLine();
 
 
     }
