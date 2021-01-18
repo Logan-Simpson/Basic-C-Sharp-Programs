@@ -14,7 +14,7 @@ namespace AnonIncome
             Console.ReadLine();
             Console.WriteLine("Person 1");
             Console.WriteLine("Hourly Rate?");
-            Console.WriteLine("15");
+            Console.WriteLine();
             Console.WriteLine("Hours worked per week?");
             Console.WriteLine("40");
             Console.ReadLine();
