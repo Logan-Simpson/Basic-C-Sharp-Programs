@@ -12,26 +12,29 @@ namespace AnonIncome
         {
             Console.WriteLine("Anonymous Income Comparison Program");
             Console.ReadLine();
-            Console.WriteLine("Person 1");
-            Console.WriteLine("Hourly Rate?");
-            Console.WriteLine();
+            Console.WriteLine("Person 1: What is your hourly rate?");
+            int rate1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("How many hours do you work per week?");
+            int hours1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Person 2: What is your hourly rate?");
+            int rate2 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Hours worked per week?");
-            Console.WriteLine("40");
+            int hours2 = Convert.ToInt32(Console.ReadLine());
+            int salary1 = rate1 * hours1;
+            Console.WriteLine("Person 1 annual salary: " + salary1);
             Console.ReadLine();
-            Console.WriteLine("Person 2");
-            Console.WriteLine("Hourly Rate?");
-            Console.WriteLine("20");
-            Console.WriteLine("Hours worked per week?");
-            Console.WriteLine("40");
+            int salary2 = rate2 * hours2;
+            Console.WriteLine("Person 2 annual salary: " + salary2);
             Console.ReadLine();
-            Console.WriteLine("Annual salary of Person 1:");
-            Console.WriteLine("31,200");
-            Console.WriteLine("Annual salary of Person 2:");
-            Console.WriteLine("41,600");
-            Console.ReadLine();
-            Console.WriteLine("Does Person 1 make more money than Person 2?");
-            bool moreMoney = false;
-            Console.WriteLine(moreMoney);
+            Console.WriteLine("Does person 1 make more money than person 2?");
+            if (salary1 > salary2)
+            {
+                Console.WriteLine("True");
+            }
+            else
+            {
+                Console.WriteLine("False");
+            }
             Console.ReadLine();
         }
     }
