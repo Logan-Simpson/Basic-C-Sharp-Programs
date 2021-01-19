@@ -1,0 +1,69 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace App204
+{
+    class Program
+    {
+        static void Main()
+        {
+            //part one
+            string[] instruments = { "Piano", "Guitar", "Cello", "Violin", "Bass" };
+            Console.WriteLine("Enter some text.");
+            string text = Console.ReadLine();
+            foreach (string i in instruments)
+            {
+                Console.WriteLine(i + text);
+            }
+            Console.ReadLine();
+            //part three
+            for (int x = 0; x < 5; x++)
+            {
+                Console.WriteLine(x);
+            }
+            Console.ReadLine();
+
+            //part three
+            for (int y = 0; y <= 10; y++)
+            {
+                Console.WriteLine(y);
+            }
+            Console.ReadLine();
+
+            //part four
+            List<string> instruments2 = new List<string> { "Trumpet", "Flute", "Guitar", "Piano", "Violin" };
+            Console.WriteLine("Enter an instrument name.");
+            string input = Console.ReadLine();
+            foreach (string instrument in instruments2)
+            {
+                if (instruments2.Contains(input))
+                {
+                    Console.WriteLine("This list contains " + input);
+                }
+                else
+                {
+                    Console.WriteLine("That instrument is not on the list.");
+                }
+                Console.ReadLine();
+                break;
+            }
+
+            //part five
+            List<string> cars = new List<string> { "Ford", "Dodge", "Chevrolet", "Honda", "Ford" };
+            int c = cars.IndexOf("Ford");
+            Console.WriteLine(c);
+            Console.ReadLine();
+            
+            //part two, infinite loop
+            for (int a = 0; a < 50; a--)
+            {
+                Console.WriteLine("value : {0}", a);
+            }
+            Console.ReadLine();
+            //part six?...
+        }
+    }
+}

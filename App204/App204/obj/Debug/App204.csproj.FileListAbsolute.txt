@@ -1,0 +1,7 @@
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\App204\App204\bin\Debug\App204.exe.config
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\App204\App204\bin\Debug\App204.exe
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\App204\App204\bin\Debug\App204.pdb
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\App204\App204\obj\Debug\App204.csprojAssemblyReference.cache
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\App204\App204\obj\Debug\App204.csproj.CoreCompileInputs.cache
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\App204\App204\obj\Debug\App204.exe
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\App204\App204\obj\Debug\App204.pdb

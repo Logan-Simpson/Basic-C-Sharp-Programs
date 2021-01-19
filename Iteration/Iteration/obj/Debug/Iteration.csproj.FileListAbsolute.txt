@@ -1,0 +1,7 @@
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\Iteration\Iteration\bin\Debug\Iteration.exe.config
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\Iteration\Iteration\bin\Debug\Iteration.exe
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\Iteration\Iteration\bin\Debug\Iteration.pdb
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\Iteration\Iteration\obj\Debug\Iteration.csprojAssemblyReference.cache
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\Iteration\Iteration\obj\Debug\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\Iteration\Iteration\obj\Debug\Iteration.exe
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\Iteration\Iteration\obj\Debug\Iteration.pdb
