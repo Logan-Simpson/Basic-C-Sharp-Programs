@@ -53,17 +53,42 @@ namespace App204
 
             //part five
             List<string> cars = new List<string> { "Ford", "Dodge", "Chevrolet", "Honda", "Ford" };
-            int c = cars.IndexOf("Ford");
-            Console.WriteLine(c);
+            Console.WriteLine("Enter the name of a car brand. ");
+            string inputCar = Console.ReadLine();
+            for (int i = 0; i < cars.Count; i++)
+            {
+                if (cars[i] == inputCar)
+                {
+                    Console.WriteLine("Match found at index " + i);
+                }
+            }
             Console.ReadLine();
-            
+
+            //part six
+
+            List<string> cars2 = new List<string> { "Truck", "Sedan", "Coupe", "Van", "SUV", "Truck" };
+            List<string> carsCopy = new List<string>();
+            foreach (var item in cars2)
+            {
+                foreach (var itemCopy in carsCopy)
+                {
+                    if (item == itemCopy)
+                    {
+                        Console.WriteLine("The item " + item + " has appeared before in the list.");
+                    }
+                }
+                carsCopy.Add(item);
+            }
+            Console.ReadLine();
+
             //part two, infinite loop
             for (int a = 0; a < 50; a--)
             {
                 Console.WriteLine("value : {0}", a);
             }
             Console.ReadLine();
-            //part six?...
+
+            
         }
     }
 }
