@@ -18,7 +18,9 @@ using System.Collections.Generic;
         foreach (var i in Numbers )
         {
             var result = i / numberOne;
+                Console.WriteLine(result);
         }
+            Console.ReadLine();
 
         List<int> NumResult = new List<int>();
         foreach (var item in NumResult)
@@ -30,7 +32,7 @@ using System.Collections.Generic;
         Console.ReadLine();
         //Console.WriteLine(number + " equals " + numberThree);
         //Console.ReadLine();
-        //}
+        }
         catch (FormatException ex)
         {
             Console.WriteLine("Please type a whole number.");
