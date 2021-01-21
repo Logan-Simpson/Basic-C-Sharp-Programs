@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Class223
 {
-    class Math
+    public class Math
     {
+        public int Add { get; set; }
+        public int Subtract { get; set; }
+        public int Multiply { get; set; }
+
+        
     }
 }

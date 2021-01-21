@@ -14,11 +14,28 @@ namespace App204
             string[] instruments = { "Piano", "Guitar", "Cello", "Violin", "Bass" };
             Console.WriteLine("Enter some text.");
             string text = Console.ReadLine();
-            foreach (string i in instruments)
+            for (int i = 0; i < instruments.Length; i++)
             {
-                Console.WriteLine(i + text);
+                instruments[i] = instruments[i] + text;
+            }
+            for (int i = 0; i < instruments.Length; i++)
+            {
+                Console.WriteLine(instruments[i]);
+            }
+
+            ////part two, infinite loop
+            //for (int a = 0; a < 50; a--)
+            //{
+            //    Console.WriteLine("value : {0}", a);
+            //}
+            Console.ReadLine();
+            //part two, infinite loop fixed
+            for (int a = 0; a < 25; a++)
+            {
+                Console.WriteLine("value : {0}", a);
             }
             Console.ReadLine();
+
             //part three
             for (int x = 0; x < 5; x++)
             {
@@ -37,32 +54,44 @@ namespace App204
             List<string> instruments2 = new List<string> { "Trumpet", "Flute", "Guitar", "Piano", "Violin" };
             Console.WriteLine("Enter an instrument name.");
             string input = Console.ReadLine();
-            foreach (string instrument in instruments2)
+            bool found = false;
+            for (int y = 0; y < instruments2.Count; y++)
             {
-                if (instruments2.Contains(input))
+                if (instruments2[y] == input)
                 {
-                    Console.WriteLine("This list contains " + input);
+                    Console.WriteLine("The index is " + y);
+                    found = true;
+                    break;
                 }
-                else
-                {
-                    Console.WriteLine("That instrument is not on the list.");
-                }
-                Console.ReadLine();
-                break;
             }
+            if (!found)
+            {
+                Console.WriteLine("That was not in the list.");
+            }
+                Console.ReadLine();
+                
+            
 
             //part five
             List<string> cars = new List<string> { "Ford", "Dodge", "Chevrolet", "Honda", "Ford" };
             Console.WriteLine("Enter the name of a car brand. ");
             string inputCar = Console.ReadLine();
+            found = false;
             for (int i = 0; i < cars.Count; i++)
             {
                 if (cars[i] == inputCar)
                 {
                     Console.WriteLine("Match found at index " + i);
+                    found = true;
                 }
+                
             }
-            Console.ReadLine();
+            if (!found)
+            {
+                Console.WriteLine("That car brand is not in the list.");
+            }
+            
+            
 
             //part six
 
@@ -70,25 +99,21 @@ namespace App204
             List<string> carsCopy = new List<string>();
             foreach (var item in cars2)
             {
-                foreach (var itemCopy in carsCopy)
+                if (!carsCopy.Contains (item))
                 {
-                    if (item == itemCopy)
-                    {
-                        Console.WriteLine("The item " + item + " has appeared before in the list.");
-                    }
+                    carsCopy.Add(item);
+                    Console.WriteLine("The item " + item + " has not appeared before in the list.");
+                 }
+                else
+                {
+                    Console.WriteLine("The item " + item + " has already been seen in the list.");
                 }
-                carsCopy.Add(item);
-            }
-            Console.ReadLine();
+             }
+             Console.ReadLine();
 
-            //part two, infinite loop
-            for (int a = 0; a < 50; a--)
-            {
-                Console.WriteLine("value : {0}", a);
-            }
-            Console.ReadLine();
+           
 
-            
+
         }
     }
 }
