@@ -13,14 +13,16 @@ namespace newClass226
                 int result = input + 20;
                 return result;
             }
-            public decimal Add(decimal input)
+            public int Add(decimal input)
             {
                 decimal result = input + 50;
-                return result;
+                int resultfinal = Convert.ToInt32(result);
+                return resultfinal;
             }
-            public string Add(string input)
+            public int Add(string input)
             {
-                string result = input + 37;
+                int result = Convert.ToInt32(input);
+                result = result + 5;
                 return result;
             }
         }
