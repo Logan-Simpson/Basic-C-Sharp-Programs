@@ -6,10 +6,15 @@ using System.Threading.Tasks;
 
 namespace NewClass228
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
+            Operation operation = new Operation();
+            int x = Convert.ToInt32(Console.ReadLine());
+            int i = Convert.ToInt32(Console.ReadLine());
+            operation.Add(i, x);
+            Console.ReadLine();
         }
     }
 }
