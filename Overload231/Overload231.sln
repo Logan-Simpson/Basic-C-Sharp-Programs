@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overload231", "Overload231\Overload231.csproj", "{E6B499EE-65AA-4ABB-A5AF-B8C8AADBC3BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6B499EE-65AA-4ABB-A5AF-B8C8AADBC3BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6B499EE-65AA-4ABB-A5AF-B8C8AADBC3BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6B499EE-65AA-4ABB-A5AF-B8C8AADBC3BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6B499EE-65AA-4ABB-A5AF-B8C8AADBC3BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B99D734A-4F84-4C03-B626-06667474B8EF}
+	EndGlobalSection
+EndGlobal
