@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Overload231
 {
-    class Math
+    public class Math
     {
+        public static void Divide(int x)
+        {
+            
+            int result = x / 2;
+        }
     }
 }
