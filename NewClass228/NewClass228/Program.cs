@@ -11,9 +11,11 @@ namespace NewClass228
         public static void Main(string[] args)
         {
             Operation operation = new Operation();
-            int x = Convert.ToInt32(Console.ReadLine());
-            int i = Convert.ToInt32(Console.ReadLine());
-            operation.Add(i, x);
+            int number = 100;
+            int num2 = 30;
+            Console.WriteLine(number);
+            operation.Add(out number, out num2);
+            Console.WriteLine("After method call,: {0}", number, num2);
             Console.ReadLine();
         }
     }

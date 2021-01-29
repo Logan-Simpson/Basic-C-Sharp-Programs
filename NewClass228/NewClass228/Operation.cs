@@ -8,12 +8,12 @@ namespace NewClass228
 {
     class Operation
     {
-        public void Add(int i, int x)
+        public void Add(out int i, out int x)
         {
-            int result = i + 20;
-            int resultFinal = Convert.ToInt32(result);
-            return;
-            
+            int num1 = 20;
+            i = num1 + 40;
+            int num2 = 47;
+            x = num2;
         }
     }
 }
