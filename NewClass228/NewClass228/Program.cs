@@ -11,11 +11,12 @@ namespace NewClass228
         public static void Main(string[] args)
         {
             Operation operation = new Operation();
-            int number = 100;
-            int num2 = 30;
-            Console.WriteLine(number);
-            operation.Add(out number, out num2);
-            Console.WriteLine("After method call,: {0}", number, num2);
+            int i = 100;
+            int x = 30;
+            int num1 = 20;
+            int num2 = 10;
+            Operation.Add(i: num1, x:num2);
+            Console.WriteLine("After method call,: {0}", i, x);
             Console.ReadLine();
         }
     }
