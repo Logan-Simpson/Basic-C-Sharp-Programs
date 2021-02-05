@@ -17,7 +17,9 @@ namespace Overload231
             Console.ReadLine();
 
             Math load = new Math();
-            load.OutPut(3, 4);
+            int x = 5;
+            int y = 7;
+            load.OutPut(out x, out y);
             return;
            
         }

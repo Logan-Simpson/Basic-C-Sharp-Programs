@@ -14,7 +14,7 @@ namespace NewClass228
             i = num1 + 40;
             int num2 = 47;
             x = num2;
-            Console.WriteLine();
+            Console.WriteLine(x);
         }
     }
 }
