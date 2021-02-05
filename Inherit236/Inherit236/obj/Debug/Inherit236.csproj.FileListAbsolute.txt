@@ -1,0 +1,7 @@
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\Inherit236\Inherit236\bin\Debug\Inherit236.exe.config
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\Inherit236\Inherit236\bin\Debug\Inherit236.exe
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\Inherit236\Inherit236\bin\Debug\Inherit236.pdb
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\Inherit236\Inherit236\obj\Debug\Inherit236.csprojAssemblyReference.cache
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\Inherit236\Inherit236\obj\Debug\Inherit236.csproj.CoreCompileInputs.cache
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\Inherit236\Inherit236\obj\Debug\Inherit236.exe
+C:\Users\logan\OneDrive\Documents\GitHub\HTML and CSS projects\Basic-C-Sharp-Programs\Inherit236\Inherit236\obj\Debug\Inherit236.pdb

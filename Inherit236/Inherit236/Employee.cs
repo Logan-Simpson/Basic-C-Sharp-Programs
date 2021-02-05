@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Inherit236
 {
-    class Employee
+    class Employee : Person
     {
+        public int ID { get; set; }
     }
 }

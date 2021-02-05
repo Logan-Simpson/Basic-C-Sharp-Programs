@@ -8,16 +8,13 @@ namespace Inherit236
 {
     public class Person
     {
-        private string FirstName;
-        private string LastName;
-
-        public Person(string First, string Last)
+        public string FirstName;
+        public string LastName;
+        public void  SayName()
         {
-            FirstName = First;
-            LastName = Last;
+            Console.WriteLine("Name: " + FirstName + " " + LastName);
         }
-
-        public string Name => $"{ FirstName } {LastName }";
-        
     }
+        
+    
 }
