@@ -6,11 +6,14 @@ using System.Threading.Tasks;
 
 namespace Inherit236
 {
-    public class Person
+    public abstract class Person
     {
         public string FirstName;
         public string LastName;
-        
+        public void SayName()
+        {
+            Console.WriteLine("Name: " + FirstName + " " + LastName);
+        }
     }
         
     
