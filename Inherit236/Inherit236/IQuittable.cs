@@ -8,5 +8,6 @@ namespace Inherit236
 {
     interface IQuittable
     {
+        void Quit();
     }
 }

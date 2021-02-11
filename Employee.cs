@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Inherit236
 {
-    class Employee : Person
+    public class Employee : Person
     {
         public int ID { get; set; }
-        public override void SayName();
-        
     }
+   
+    
 }
