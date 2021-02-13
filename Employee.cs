@@ -6,9 +6,13 @@ using System.Threading.Tasks;
 
 namespace Inherit236
 {
-    public class Employee : Person
+    public class Employee : IQuittable
     {
-        public int ID { get; set; }
+        public void SayName();
+        {
+            return (FirstName, LastName);
+        }
+
     }
    
     

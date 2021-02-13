@@ -8,12 +8,8 @@ namespace Inherit236
 {
     public abstract class Person
     {
-        public string FirstName;
-        public string LastName;
-        public void SayName()
-        {
-            Console.WriteLine("Name: " + FirstName + " " + LastName);
-        }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
     }
         
     
