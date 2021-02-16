@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 
 namespace Inherit236
 {
-    public class Employee : IQuittable
+    public class Employee : Person, IQuittable
     {
-        public void SayName();
+        public int ID { get; set; }
+
+        public void Quit()
         {
-            return (FirstName, LastName);
+            Console.WriteLine("I quit!");
         }
 
     }
