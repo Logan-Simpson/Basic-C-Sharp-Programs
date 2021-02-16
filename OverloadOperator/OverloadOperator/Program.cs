@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Inherit236
+namespace OverloadOperator
 {
-    interface IQuittable
+    class Program
     {
-        void Quit();
+        static void Main(string[] args)
+        {
+        }
     }
 }
